@@ -1,2 +1,2 @@
-# Khwarizmi-memory
+# college project
 Ai football analyzer 
